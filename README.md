@@ -74,20 +74,12 @@ Me interesa aplicar la Inteligencia Artificial Generativa y la automatización (
 
 ## 🚀 Proyectos Destacados
 
-🚧 Estoy construyendo mi portafolio. Próximamente: análisis de datos abiertos de Colombia (Google Colab), un agente de IA con n8n y una API REST con FastAPI y Docker.
+   ### 🌳 Bosque Lúdico–Motor
+   🔗 [Ver demo](https://edwinri888.github.io/bosque-ludico-motor/) | [Código](https://github.com/edwinri888/bosque-ludico-motor)
 
-<!--
-Plantilla para agregar un proyecto cuando lo termines.
-Borra las marcas de comentario y cambia los textos:
+   Juego educativo tipo escape room con 6 retos sobre motricidad y desarrollo lúdico-motor, con diploma final.
 
-### 📋 Nombre del proyecto
-🔗 [Ver demo](URL-DE-LA-DEMO) | [Código](https://github.com/edwinri888/NOMBRE-DEL-REPO)
-
-Descripción corta de lo que hace el proyecto.
-
-**Tecnologías:** React · JavaScript · CSS
--->
-
+   **Tecnologías:** HTML · CSS · JavaScript
 ---
 
 ## 📚 Formación
